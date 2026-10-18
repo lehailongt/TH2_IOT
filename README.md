@@ -1,10 +1,3 @@
-# Bài thực hành số 2: Thu thập, lưu trữ và tiền xử lý dữ liệu IoT
-
-**Học phần:** IoT và Ứng dụng (INT14149)
-**Sinh viên:** `<Họ và tên>` - `<Mã sinh viên>` - Lớp `<Lớp>`
-**Giảng viên:** `<Tên giảng viên>`
-
-Hệ thống thu thập dữ liệu cảm biến (nhiệt độ, độ ẩm, ánh sáng) từ ESP32 qua MQTT, lưu vào InfluxDB 2.x, tiền xử lý bằng Python (pandas, numpy, scikit-learn) và giám sát bằng dashboard real-time. **Toàn bộ hệ thống được cài đặt trực tiếp trên máy, không dùng Docker.**
 
 ---
 
